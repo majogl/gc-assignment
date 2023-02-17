@@ -1,5 +1,7 @@
 # Evaluation task for Garwan Consulting hiring process
 
+### All you need to do is run the `assignment/main.py` file and a demo will run and print out.
+
 # The citybike Wien Importer
 
 ## Step one: fetch and transform API data
